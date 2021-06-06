@@ -5,7 +5,7 @@
 <ul>
   <li>🔭 Web Developer</li>
   <li>🌱 I’m currently working on Reactjs</li>
-  <li>👨‍💻 All of my projects are available at <a href="https://github.com/KaranBrains" target="_blank">https://github.com/Shruti3004</a></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/KaranBrains" target="_blank">https://github.com/KaranBrains</a></li>
   <li>💬 Ask me about React & Open Source</li>
 </ul>
 
@@ -26,13 +26,13 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html&langs_count=8 alt="Shruti3004" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranBrains&layout=compact&hide=html&langs_count=8 alt="KaranBrains" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaranBrains&show_icons=true" alt="KaranBrains" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti3004&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranBrains&layout=compact" />
 </p>
 
 <h2 align="center">Connect with me</h2>
