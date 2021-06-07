@@ -6,7 +6,7 @@
   <li>🔭 Web Developer</li>
   <li>🌱 I’m currently working on Reactjs</li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/KaranBrains" target="_blank">https://github.com/KaranBrains</a></li>
-  <li>💬 Ask me about React & Open Source</li>
+  <li>💬 Ask me about React, Angular, Node.js, Next, Graph QL & Open Source</li>
 </ul>
 
 <!--
