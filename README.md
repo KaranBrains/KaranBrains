@@ -8,7 +8,7 @@
   <li>💬 I have been managing a small team of two developers and a designer for the past 5 months.</li>
    <li>🔭 I have basic experience in deployment of server and client side code on Apache server in Linux and Ubuntu . I have also written pipelines for continuos deployement on various website hosting platforms .</li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/KaranBrains" target="_blank">https://github.com/KaranBrains</a></li>
-  <li>💬 Ask me about React, Angular, Node.js, Next, Graph QL & Open Source</li>
+  <li>💬 Ask me about React, Angular, Node.js, Next.</li>
 </ul>
 
 <!--
